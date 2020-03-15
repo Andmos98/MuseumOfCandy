@@ -1,2 +1,2 @@
 # MuseumOfCandy
-A fictional "instagram museum" using Bootstrap
+A fictional "Instagram museum" using Bootstrap
